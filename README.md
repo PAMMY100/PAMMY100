@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Samuel Adebayo</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🔭 Vision **Great vision skils of Innovation**
+- 🔭 Vision-> **Great vision skils of Innovation**
 
-- 🌱 Build **Abilit to bring visons to life. let's plant, build and create together.**
+- 🌱 Build-> **Ability to bring visons to life. let's plant, build and create together.**
 
 - 💬 **Available for Jobs**
 
-- 📫 How to reach me **adebayosamuel.olamilekan@gmail.com**
+- 📫 How to reach me-> **adebayosamuel.olamilekan@gmail.com**
 
 - ⚡ Fun fact **Good footballer**
 
