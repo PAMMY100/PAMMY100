@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samuel Adebayo</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🔭 I’m currently working on **Rest API with Node,Express and MongoDB**
+- 🔭 Vision **Great vision skils of Innovation**
 
-- 🌱 I’m currently learning **NodeJs,Express framework and MongoDb**
+- 🌱 Build **Abilit to bring visons to life. let's plant, build and create together.**
 
-- 💬 Ask me about **React, NextJS**
+- 💬 **Available for Jobs**
 
 - 📫 How to reach me **adebayosamuel.olamilekan@gmail.com**
 
